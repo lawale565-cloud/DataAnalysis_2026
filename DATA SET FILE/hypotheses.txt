@@ -1,7 +1,0 @@
-Тематика: employee_skills
-
-- SQL skills are more common in the Development department
-- Communication skills are stronger in the Sales department
-- The Leadership skill is more common among senior employees
-- The Analytics department has the highest average skill level
-- Skill levels vary by department
